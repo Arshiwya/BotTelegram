@@ -10,7 +10,7 @@ bot = Client(
     api_hash=api_hash,      ## your api_hash that you got from https://my.telegram.org/apps
 
 )
-##  arshiya
+
 
 now = datetime.now()
 current_time = now.strftime("%H:%M")
