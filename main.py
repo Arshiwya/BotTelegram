@@ -6,8 +6,8 @@ from datetime import datetime
 
 bot = Client(
 	"mtproto1",
-    api_id=api_id,          ## your api_id that you got from telegram
-    api_hash=api_hash,      ## your api_hash that you got from telegram
+    api_id=api_id,          ## your api_id that you got from https://my.telegram.org/apps
+    api_hash=api_hash,      ## your api_hash that you got from https://my.telegram.org/apps
 
 )
 
